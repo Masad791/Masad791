@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Laravel+%26+PHP+Specialist;REST+API+%7C+Database+Design;Clean+Code+%7C+SOLID+Principles" />
 </p>
 <p align="center">
-  <a href="mailto:muhammadasaddev31@email.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:muhammadasaddev31@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/asaddevco/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Masad791&style=flat-square&color=6366f1&label=Profile+Views" />
 </p>
