@@ -8,9 +8,9 @@
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Masad791&style=flat-square&color=6366f1&label=Profile+Views" />
 </p>
----
+
  
-### 🧠 About Me
+### About Me
  
 ```php
 <?php
