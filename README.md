@@ -42,7 +42,7 @@ class Asad
  
 ---
  
-### 🛠️ Tech Stack
+### Tech Stack
  
 **Backend**
  
