@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="mailto:muhammadasaddev31@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/asaddevco/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/asaddevco"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Masad791&style=flat-square&color=6366f1&label=Profile+Views" />
 </p>
 
