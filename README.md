@@ -69,16 +69,12 @@ class Asad
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
  
 ---
  
 ### 📊 GitHub Stats
  
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Masad791&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masad791&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masad791&theme=tokyonight&hide_border=true" />
 </p>
