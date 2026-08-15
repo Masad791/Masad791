@@ -71,12 +71,6 @@ class Asad
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
  
  
-### 📊 GitHub Stats
- 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masad791&theme=tokyonight&hide_border=true" />
-</p>
  
 ### 📈 Contribution Graph
  
