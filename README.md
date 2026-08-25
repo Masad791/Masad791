@@ -9,6 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=Masad791&style=flat-square&color=6366f1&label=Profile+Views" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Masad791's GitHub profile" src="dark_mode.svg" />
+</picture>
  
 ### About Me
  
