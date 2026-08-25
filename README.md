@@ -69,11 +69,3 @@ class Asad
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
- 
- 
- 
-### 📈 Contribution Graph
- 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masad791&theme=tokyo-night&hide_border=true&area=true" />
-</p>
