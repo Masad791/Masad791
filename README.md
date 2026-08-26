@@ -1,14 +1,16 @@
-<h1 align="center">Hey, I'm Asad 👋</h1>
- 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Laravel+%26+PHP+Specialist;REST+API+%7C+Database+Design;Clean+Code+%7C+SOLID+Principles" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="Masad791's GitHub profile" src="dark_mode.svg" />
 </picture>
+
+
+<h1 align="center">Hey, I'm Asad 👋</h1>
+ 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Laravel+%26+PHP+Specialist;REST+API+%7C+Database+Design;Clean+Code+%7C+SOLID+Principles" />
+</p>
  
 ### About Me
  
