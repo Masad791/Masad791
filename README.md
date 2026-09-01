@@ -49,7 +49,7 @@ class Asad
 
   <!-- Full-width gradient wave banner -->
   <a href="https://github.com/Masad791?tab=repositories">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=180&section=header&text=TECH%20STACK%20%26%20TOOLS&fontSize=45&fontColor=FFFFFF&fontAlignY=38" alt="Tech Stack & Tools"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=heaser" alt="wave" style="transform: rotate(180deg)"/>
   </a>
 
   <!-- Animated typing line -->
@@ -101,7 +101,6 @@ class Asad
 
 </div>
 
-### 🐍 Watch the snake eat my contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Masad791/Masad791/output/github-snake-dark.svg"/>
