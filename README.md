@@ -40,6 +40,11 @@ class Asad
     }
 }
 ```
+
+### Open Source
+
+- [three-gpu-pathtracer#894](https://github.com/gkjohnson/three-gpu-pathtracer/pull/894): fix render target attachments all sampling the same texture
+- [quarto-cli#15026](https://github.com/quarto-dev/quarto-cli/pull/15026): fix listing RSS feeds crashing on Windows with web-hosted images
  
 ---
  
